@@ -6,7 +6,7 @@
 5. git add --all
 6. git commit -m "description"
 7. git push
-
+8. exit
 
 $ git config --global user.name "millionarecoin" $ git config --global user.email "millionarecoin123@gmail.com"
 
