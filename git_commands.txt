@@ -1,0 +1,16 @@
+1. Create a working folder.
+2. git clone
+3. git checkout project name
+4. git status
+5. Put the files you would like to upload in this folder. 
+5. git add --all
+6. git commit -m "description"
+7. git push
+
+
+$ git config --global user.name "millionarecoin" $ git config --global user.email "millionarecoin123@gmail.com"
+
+ssh-keygen -t rsa -b 4096 -C "millionarecoin123@gmail.com"
+
+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
+
